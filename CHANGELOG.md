@@ -1,5 +1,12 @@
 # Change Log for FreeRTOS Cellular Interface Library
 
+## v1.4.2 (January 2026)
+
+### Changes
+- [#141](https://github.com/FreeRTOS/FreeRTOS-Cellular-Interface/pull/141) Remove formatting bot workflow.
+- [#140](https://github.com/FreeRTOS/FreeRTOS-Cellular-Interface/pull/140) Update LTS 202406 information.
+
+
 ## v1.4.1 (December 2024)
 
 ### Updates
